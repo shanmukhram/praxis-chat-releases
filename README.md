@@ -145,6 +145,8 @@ follow in a later release.
 - The only other request the app makes is a check of this repository for
   new versions.
 
+Read the full [privacy note](PRIVACY.md) and the [license](LICENSE.md).
+
 ## Credits
 
 - Praxis Harness builds on the open-source
@@ -165,6 +167,7 @@ problem. Never paste API keys or private data into an issue.
 ---
 
 <p align="center">
-  <sub>This repository holds the installers and release notes. The source code is not published here.<br>
+  <sub>Praxis Chat by Overmind Labs · <a href="LICENSE.md">License</a> · <a href="PRIVACY.md">Privacy</a><br>
+  This repository holds the installers and release notes. The source code is not published here.<br>
   Open-source licenses for the bundled parts ship with the app.</sub>
 </p>
