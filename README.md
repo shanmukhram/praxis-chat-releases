@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/shanmukhram/praxis-chat-releases?include_prereleases&label=version&color=0f766e" alt="Latest version"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/shanmukhram/praxis-chat-releases?include_prereleases&sort=semver&label=version&color=0f766e" alt="Latest version"></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-1c1917" alt="Windows 10 and 11">
   <img src="https://img.shields.io/badge/status-beta-57534e" alt="Beta">
   <a href="../../issues"><img src="https://img.shields.io/badge/feedback-issues-57534e" alt="Feedback"></a>
