@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest">
+  <a href="https://github.com/shanmukhram/praxis-chat-releases/releases/latest/download/Praxis-Chat-Setup.exe">
     <img src="https://img.shields.io/badge/Download%20for%20Windows-0f766e?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" height="44">
   </a>
 </p>
@@ -108,8 +108,9 @@ carries on after a restart.
 
 ## Install
 
-1. Open **[the latest release](../../releases/latest)** and download
-   `Praxis-Chat-Setup-<version>.exe`.
+1. Click **[Download for Windows](https://github.com/shanmukhram/praxis-chat-releases/releases/latest/download/Praxis-Chat-Setup.exe)**. It downloads the installer,
+   `Praxis-Chat-Setup.exe`, the latest version. All versions are under
+   [Releases](../../releases).
 2. Run it. The app installs and opens; nothing else to install.
 3. Connect a model provider with your own API key, or your Google Cloud
    account, on the setup screen.
