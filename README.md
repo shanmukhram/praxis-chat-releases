@@ -141,10 +141,12 @@ follow in a later release.
 > stored locally. Prompts go only to the provider you connect, for the chats
 > that use it.
 
-- No telemetry, no analytics, no account with us.
 - API keys are kept in Windows Credential Manager, never in plain files.
-- The only other request the app makes is a check of this repository for
-  new versions.
+- The app checks this repository for new versions.
+- From version 0.2.1 it also sends anonymous usage counts (no content, no
+  file names, no IP address) to help improve it. You can turn this off in
+  the first-start notice or in Settings, Privacy.
+- No account with us.
 
 Read the full [privacy note](PRIVACY.md) and the [license](LICENSE.md).
 
