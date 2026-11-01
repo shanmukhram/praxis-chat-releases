@@ -146,6 +146,9 @@ follow in a later release.
 - From version 0.2.1 it also sends anonymous usage counts (no content, no
   file names, no IP address) to help improve it. You can turn this off in
   the first-start notice or in Settings, Privacy.
+- From version 0.2.2, when an agent task needs a missing developer tool
+  (Node.js, Python, Git and others), the app installs it with winget or from
+  the tool's official site.
 - No account with us.
 
 Read the full [privacy note](PRIVACY.md) and the [license](LICENSE.md).

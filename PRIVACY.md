@@ -11,6 +11,12 @@ projects, files or other content.
 - The app checks GitHub for new versions. That check sends nothing about you
   or your data, beyond what any download sends (your IP address and app
   version).
+- Developer tools (from version 0.2.2). When an agent task needs a
+  missing tool such as Node.js, Python or Git, the app installs it with
+  winget, or downloads it from the tool's official site (for example
+  nodejs.org, go.dev or Microsoft's .NET download site) and checks it
+  against the published checksum. These downloads send nothing about you or
+  your data, beyond what any download sends.
 - Anonymous usage data. Unless you turn it off, the app sends anonymous
   counts of how it is used to Overmind Labs, through PostHog's EU region:
   for example that the app started, that a message was sent and with which
