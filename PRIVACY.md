@@ -17,6 +17,11 @@ projects, files or other content.
   nodejs.org, go.dev or Microsoft's .NET download site) and checks it
   against the published checksum. These downloads send nothing about you or
   your data, beyond what any download sends.
+- Programs you add (from version 0.3.0). Hooks and MCP servers that you,
+  or a project folder you trust, set up run on your PC as their own
+  programs. Praxis Chat gives them only the step they handle; what they
+  send elsewhere is up to them, so add only ones you trust. A project's
+  MCP server asks you before its first start.
 - Anonymous usage data. Unless you turn it off, the app sends anonymous
   counts of how it is used to Overmind Labs, through PostHog's EU region:
   for example that the app started, that a message was sent and with which

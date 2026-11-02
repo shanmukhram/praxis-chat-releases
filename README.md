@@ -149,6 +149,9 @@ follow in a later release.
 - From version 0.2.2, when an agent task needs a missing developer tool
   (Node.js, Python, Git and others), the app installs it with winget or from
   the tool's official site.
+- From version 0.3.0, hooks and MCP servers that you or a project you
+  trust set up run on your PC as their own programs; add only ones you
+  trust.
 - No account with us.
 
 Read the full [privacy note](PRIVACY.md) and the [license](LICENSE.md).
