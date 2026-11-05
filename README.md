@@ -152,6 +152,9 @@ follow in a later release.
 - From version 0.3.0, hooks and MCP servers that you or a project you
   trust set up run on your PC as their own programs; add only ones you
   trust.
+- From version 0.4.0, while web search and page reading is on (the
+  default), the agent reads public web pages from your PC; a second opinion
+  from another model you connected is off until you turn it on.
 - No account with us.
 
 Read the full [privacy note](PRIVACY.md) and the [license](LICENSE.md).

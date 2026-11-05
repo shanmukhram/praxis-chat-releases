@@ -22,6 +22,16 @@ projects, files or other content.
   programs. Praxis Chat gives them only the step they handle; what they
   send elsewhere is up to them, so add only ones you trust. A project's
   MCP server asks you before its first start.
+- Web pages (from version 0.4.0). While "Web search and page reading" is
+  on in Settings (it is on by default), the agent can read public web pages
+  and watch public WebSocket feeds from your PC, as a browser would: the
+  site sees your IP address and the address asked for. Local and private
+  addresses are refused. With the switch off, nothing is fetched.
+- A second opinion (from version 0.4.0). If you turn on "Second opinion
+  from another model" in Settings, Model routing (it is off by default), a
+  routed change may be checked by another model you connected, possibly at
+  another provider. That provider then receives the request, the change and
+  the test output.
 - Anonymous usage data. Unless you turn it off, the app sends anonymous
   counts of how it is used to Overmind Labs, through PostHog's EU region:
   for example that the app started, that a message was sent and with which
